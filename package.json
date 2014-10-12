@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "map-stream": "^0.1.0",
+        "yate": "*"
+    },
+    "name": "gulp-yate",
+    "private": true,
+    "version": "0.0.1"
+}
